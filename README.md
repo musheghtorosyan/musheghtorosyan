@@ -1,4 +1,4 @@
-<h1 align="center">Web architect from Armenia</h1>
+<h1>Web architect from Armenia</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musheghtorosyan&label=Profile%20views&color=0e75b6&style=flat" alt="musheghtorosyan" /> </p>
 
