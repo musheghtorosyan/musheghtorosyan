@@ -1,4 +1,4 @@
-<h1>Web architect from Armenia</h1>
+<h1>WEB ARCHITECT FROM ARMENIA</h1>
 
 <p align="left">
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musheghtorosyan" height="30" width="40" /></a>
