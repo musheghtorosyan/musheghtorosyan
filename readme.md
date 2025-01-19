@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheghtorosyan&theme=algolia&no-frame=true&no-bg=true" alt="musheghtorosyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheghtorosyan&theme=gitdimmed&no-frame=true&no-bg=true" alt="musheghtorosyan" /></a> </p>
 <p align="center">
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musheghtorosyan" height="30" width="40" /></a>
 <a href="https://fb.com/musheghtorosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musheghtorosyan" height="30" width="40" /></a>
