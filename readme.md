@@ -6,7 +6,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=musheghtorosyan&label=Profile%20views&color=0e75b6&style=flat" alt="musheghtorosyan" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan" alt="musheghtorosyan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan" alt="musheghtorosyan" /></p>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
