@@ -9,7 +9,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan" alt="musheghtorosyan" /></p>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=musheghtorosyan&show_icons=true&locale=en&random=1" alt="musheghtorosyan" /></p>-->
 <!--
