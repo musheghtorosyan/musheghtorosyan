@@ -11,7 +11,4 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheghtorosyan&show_icons=true&locale=en&layout=compact&random=1" alt="musheghtorosyan" /></p>-->
 
 ## 📌 Portfolio  
-
-| Project | Project | Project | Project |
-|---------|---------|---------|---------|
-| ![Project 5]([https://via.placeholder.com/150](https://github.com/musheghtorosyan/Uno/blob/main/images/banner_3.jpg)) <br> [Project 5](https://github.com/yourusername/project5) | ![Project 6](https://via.placeholder.com/150) <br> [Project 6](https://github.com/yourusername/project6) | ![Project 7](https://via.placeholder.com/150) <br> [Project 7](https://github.com/yourusername/project7) | ![Project 8](https://via.placeholder.com/150) <br> [Project 8](https://github.com/yourusername/project8) |
+[Text Here](https://example.com)
