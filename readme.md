@@ -10,7 +10,16 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=musheghtorosyan&show_icons=true&locale=en&random=1" alt="musheghtorosyan" /></p>-->
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheghtorosyan&show_icons=true&locale=en&layout=compact&random=1" alt="musheghtorosyan" /></p>-->
 
-## 🌐 Portfolio Projects  
+## 🌐 Portfolio Projects 
+
+Caprae | Oprint | Mary Clinic | HyBuys | UEX Shipping | UEX | Netreex | Emoshin | Bunker | Ruzplit Group | 105 Royale | StroySantex | ArtColor | ProfTax | Bumbumik | JCA Jewellery | LEDBOX | Vacant | 3Plus2 | Zayavka Rossia | ArdiBook | OtherMood | Manmar | NeexPack | TrueZard KZ | TrueZard | KaraSilver | Moreni | Megal Hospice | Mega Santex | France Formation | Energy Group | Filmex Club | Nectar | Boonker | Decor Profi | NF Trading | Code Center | Hippos Online | Scream | Megerian Carpet | Zefir Monster | Droplix | Morphie Monster | Amur Monster | Lezorun | Grand Realty | Armenian Church South | Bids AM | Real Estate AM | Horoscope Today | 808 AM | Grand Realty | Megerian Shin | Daily Rent | Scorpio Monster | Elena Travels | Green Zone | Rio Club | WebEx | AMI Group | Enixe Club | Pegas Furshet | Armex Club | Banana Results | WebMonster | Hippos Online | Jermuk Group | Yerevan Apartment Service | L-Origani | Exdatex | Bazikyan | HomeArt | Poker Player | Vorsord | Elle Development | Newscenrter | MicroRing | Baja Sur Mexico | Enixe Group | WebEx Hosting | VIP Catalog | Plitkov Stroy | ProTax | MaryTour | Real Time News | Promtorg Invest | AppaOnline | Security 24 | KovkaProffi | Elena Travel | 365Mag | ReactJS AM | The Scorp | Scorp Quest | CCSim Prim | HKH AM | Scorp AM | SGL AM
+
+
+
+
+
+
+
  [Digitown](https://digitown.am) | [Zgest](https://zgest.com) | [Xaotech](https://xaotech.io)  
 - [Caprae](https://caprae.am)  
 - [Oprint](https://oprint.am)  
@@ -20,9 +29,7 @@
 - [UEX](https://uex.am)  
 - [Netreex](https://netreex.eu)  
 - [Emoshin](https://emoshin.am)  
-- [Bunker](https://bunker.am)  
-
-### **Russian & International Projects**  
+- [Bunker](https://bunker.am)   
 - [Ruzplit Group](https://ruzplitgroup.ru)  
 - [105 Royale](https://105royale.com)  
 - [StroySantex](https://stroysantex.ru)  
@@ -45,10 +52,6 @@
 - [Megal Hospice](https://megalhospice.com)  
 - [Mega Santex](https://megasantex.ru)  
 - [France Formation](https://franceformation.am)  
-
----
-
-## 🏗️ Not Yet Hosted Projects  
 - [Energy Group](https://energygroup.com)  
 - [Filmex Club](https://filmex.club)  
 - [Nectar](http://nectar.am)  
@@ -110,10 +113,6 @@
 - [KovkaProffi](https://kovkaproffi.ru)  
 - [Elena Travel](https://elenatravel.am)  
 - [365Mag](https://365mag.ru)  
-
----
-
-## 🚀 **Featured Projects**  
 - [ReactJS AM](https://reactjs.am)  
 - [The Scorp](https://thescorp.io)  
 - [Scorp Quest](https://scorp.quest)  
