@@ -11,11 +11,7 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheghtorosyan&show_icons=true&locale=en&layout=compact&random=1" alt="musheghtorosyan" /></p>-->
 
 ## 🌐 Portfolio Projects  
-
-### **Hosted Projects**  
-- [Digitown](https://digitown.am)  
-- [Zgest](https://zgest.com)  
-- [Xaotech](https://xaotech.io)  
+ [Digitown](https://digitown.am)  [Zgest](https://zgest.com)  [Xaotech](https://xaotech.io)  
 - [Caprae](https://caprae.am)  
 - [Oprint](https://oprint.am)  
 - [Mary Clinic](https://maryclinic.am)  
