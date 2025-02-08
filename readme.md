@@ -12,26 +12,7 @@
 
 ## 🌐 Portfolio Projects 
 
-Caprae | Oprint | Mary Clinic | HyBuys | UEX Shipping | UEX | Netreex | Emoshin | Bunker | Ruzplit Group | 105 Royale | StroySantex | ArtColor | ProfTax | Bumbumik | JCA Jewellery | LEDBOX | Vacant | 3Plus2 | Zayavka Rossia | ArdiBook | OtherMood | Manmar | NeexPack | TrueZard KZ | TrueZard | KaraSilver | Moreni | Megal Hospice | Mega Santex | France Formation | Energy Group | Filmex Club | Nectar | Boonker | Decor Profi | NF Trading | Code Center | Hippos Online | Scream | Megerian Carpet | Zefir Monster | Droplix | Morphie Monster | Amur Monster | Lezorun | Grand Realty | Armenian Church South | Bids AM | Real Estate AM | Horoscope Today | 808 AM | Grand Realty | Megerian Shin | Daily Rent | Scorpio Monster | Elena Travels | Green Zone | Rio Club | WebEx | AMI Group | Enixe Club | Pegas Furshet | Armex Club | Banana Results | WebMonster | Hippos Online | Jermuk Group | Yerevan Apartment Service | L-Origani | Exdatex | Bazikyan | HomeArt | Poker Player | Vorsord | Elle Development | Newscenrter | MicroRing | Baja Sur Mexico | Enixe Group | WebEx Hosting | VIP Catalog | Plitkov Stroy | ProTax | MaryTour | Real Time News | Promtorg Invest | AppaOnline | Security 24 | KovkaProffi | Elena Travel | 365Mag | ReactJS AM | The Scorp | Scorp Quest | CCSim Prim | HKH AM | Scorp AM | SGL AM
-
-
-
-
-
-
-
- [Digitown](https://digitown.am) | [Zgest](https://zgest.com) | [Xaotech](https://xaotech.io)  
-- [Caprae](https://caprae.am)  
-- [Oprint](https://oprint.am)  
-- [Mary Clinic](https://maryclinic.am)  
-- [HyBuys](https://hybuys.com)  
-- [UEX Shipping](https://uexshipping.com)  
-- [UEX](https://uex.am)  
-- [Netreex](https://netreex.eu)  
-- [Emoshin](https://emoshin.am)  
-- [Bunker](https://bunker.am)   
-- [Ruzplit Group](https://ruzplitgroup.ru)  
-- [105 Royale](https://105royale.com)  
+[Digitown](https://digitown.am) | [Zgest](https://zgest.com) | [Xaotech](https://xaotech.io) | [Caprae](https://caprae.am) | [Oprint](https://oprint.am) | [Mary Clinic](https://maryclinic.am) | [HyBuys](https://hybuys.com) | [UEX Shipping](https://uexshipping.com) | [UEX](https://uex.am) | [Netreex](https://netreex.eu) | [Emoshin](https://emoshin.am) | [Bunker](https://bunker.am) | [Ruzplit Group](https://ruzplitgroup.ru) | [105 Royale](https://105royale.com)  
 - [StroySantex](https://stroysantex.ru)  
 - [ArtColor](https://artcolor.am)  
 - [ProfTax](https://proftax.am)  
