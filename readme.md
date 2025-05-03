@@ -19,11 +19,11 @@
 
 ## 🌐 My Remote Workspaces
 
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">upwork.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">freelancer.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">fl.ru</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">peopleperhour.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">toptal.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
