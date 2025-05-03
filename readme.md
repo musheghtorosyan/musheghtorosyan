@@ -24,9 +24,9 @@
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">fl.ru</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">peopleperhour.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">toptal.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
-<a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">fiverr.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">kwork.com</a><br>
+<a href="https://linkedin.com/in/musheghtorosyan" target="blank">freelance.ru</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
 <a href="https://linkedin.com/in/musheghtorosyan" target="blank">Upwork.com</a><br>
