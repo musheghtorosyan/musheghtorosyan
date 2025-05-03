@@ -17,7 +17,7 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=musheghtorosyan&show_icons=true&locale=en&random=1" alt="musheghtorosyan" /></p>-->
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheghtorosyan&show_icons=true&locale=en&layout=compact&random=1" alt="musheghtorosyan" /></p>-->
 
-## 🌐 My Remote Workspaces
+## 🌐 Remote Workspaces
 
 <a href="https://fiverr.com/sellers/musheghtorosyan" target="blank">@Fiverr.com</a><br>
 <a href="https://toptal.com" target="blank">@Toptal.com</a><br>
