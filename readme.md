@@ -1,3 +1,35 @@
+<details>
+  <summary><h3>:zap: Github Stats</h3></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=musheghtorosyan&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=musheghtorosyan&show_icons=true&hide_border=true&theme=vue&count_private=true" />
+    <img alt="musheghtorosyan's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=musheghtorosyan&show_icons=true&hide_border=true&theme=vue&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musheghtorosyan&layout=compact&theme=vue-dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musheghtorosyan&layout=compact&theme=vue&count_private=true" />
+    <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=musheghtorosyan&layout=compact&theme=vue&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan&theme=vue-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan&theme=vue" />
+    <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=musheghtorosyan&theme=vue" alt="musheghtorosyan" />
+  </picture>
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musheghtorosyan/musheghtorosyan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musheghtorosyan/musheghtorosyan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/musheghtorosyan/musheghtorosyan/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center"><img src="https://profile-counter.glitch.me/musheghtorosyan/count.svg" alt="musheghtorosyan Visitor Count" /></p>
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheghtorosyan&theme=matrix&no-frame=true" alt="musheghtorosyan" /></a> </p>
 
 
